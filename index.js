@@ -1,1 +1,4 @@
-function updateObjectWithKeyandValue(object, key, value) {}
+var object = { key : value }
+function updateObjectWithKeyandValue(object, key, value) {
+  return object
+}
